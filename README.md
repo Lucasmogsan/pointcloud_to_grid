@@ -10,6 +10,7 @@ catkin build pointcloud_to_grid
 ```
 Don't foget to `source ~/catkin_ws/devel/setup.bash`. *Note*: [`catkin tools`](https://catkin-tools.readthedocs.io/en/latest/verbs/catkin_build.html) is recommended, but `catkin_make` also works.
 
+# TODO: Write how to use with orbslam
 
 ## Features
 - Few dependencies (ROS and PCL mainly) [ROS installation](http://wiki.ros.org/ROS/Installation)
